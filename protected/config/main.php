@@ -52,10 +52,10 @@ return array(
 			'allowAutoLogin'=>true,
 		),
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=prism728_erp',
+			'connectionString' => 'mysql:host=localhost;dbname=capellaerp',
 			'emulatePrepare' => true,
-			'username' => 'prism728_erp',
-			'password' => 'n0b1t4s4n',
+			'username' => 'capellaerp',
+			'password' => 'capellaerp',
 			'charset' => 'utf8',
 			'initSQLs'=>array('set names utf8'),
 			//'enableProfiling'=>true,
