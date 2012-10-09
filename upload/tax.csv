@@ -1,0 +1,6 @@
+"taxid","taxcode","taxvalue","description","recordstatus"
+1,"PPN 10%",10,"Value Added Tax",1
+2,"PPh 23",2,"Pajak Jasa untuk badan",1
+3,"PPh 23",3,"PPH 23 Jasa untuk pribadi",1
+4,"PPh 21",21,"pajak restoran",1
+5,"NT",0,"Tanpa Pajak / Pajak ditanggung oleh Cust/Supplier",1

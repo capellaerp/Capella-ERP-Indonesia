@@ -1,0 +1,216 @@
+accountid,accountcode,accountname,parentaccountid,currencyid,recordstatus,accounttypeid
+1,111100,Kas Kecil BBD Plaza,,40,1,9
+2,111200,Kas Besar BBD PLaza,,40,1,9
+3,112110,Giro BRI 1,,40,1,10
+4,112120,Giro BRI 2,,40,1,10
+5,112121,BRI 3,,40,1,10
+6,112122,Giro BRI Mangga Dua 1,,40,1,10
+7,112123,Giro BRI Mangga Dua 2,,40,1,10
+8,112124,BRI Kelapa Gading 3,,40,1,10
+9,112125,BRI Switching,,40,1,10
+10,112126,BRI Syariah,,40,1,10
+11,112130,Giro BRI Valas 1,,40,1,10
+12,112140,Giro BRI Valas 2,,40,1,10
+13,112150,Deposito BRI KCK,,40,1,10
+14,112160,BRI RC MK Konstruksi,,40,1,10
+15,112170,BRI KI,,40,1,10
+16,112180,Bank Agro,,40,1,10
+17,112210,Giro Mandiri,,40,1,10
+18,112211,Bank Mandiri 2,,40,1,10
+19,112310,Giro BCA,,40,1,10
+20,112410,Deposito Bank lain,,40,1,10
+21,112510,Giro BNI,,40,1,10
+22,121000,Surat Berharga,,40,1,11
+23,131100,Piutang Usaha,,40,1,12
+24,131200,Pendapatan masih harus diterima,,40,1,12
+25,131250,Cadangan Kerugian Piutang,,40,1,12
+26,132020,Piutang Pajak PPh ps 23,,40,1,13
+27,132021,Pajak Dibayar Dimuka (PPH 25),,40,1,13
+28,132100,PPN Masukan,,40,1,13
+29,132030,Piutang lain-lain,,40,1,14
+30,133160,Cash Advance,,40,1,14
+31,141100,Persediaan,,40,1,15
+32,151100,Premi asuransi kendaraan,,40,1,16
+33,151200,Premi Asuransi gedung/Kantor,,40,1,16
+34,151300,Premi asuransi peralatan VSAT,,40,1,16
+35,151400,Premi asuransi jaminan pelaksana,,40,1,16
+36,151500,Premi asuransi kesehatan,,40,1,16
+37,152100,Sewa tempat dibayar dimuka,,40,1,16
+38,152200,Service charge dibayar dimuka,,40,1,16
+39,152300,sewa gudang dibayar dimuka,,40,1,16
+40,152400,Sewa transponder di bayar dimuka,,40,1,16
+41,152500,Maintenance peralatan dibayar dimuka,,40,1,16
+42,152600,Biaya pengadaan Critical spare dibayar dimuka,,40,1,16
+43,169999,Uang muka lainnya,,40,1,16
+44,171100,Inventaris kantor,,40,1,17
+45,171200,Akumulasi Penyusutan Inventaris kantor,,40,1,17
+46,172100,kendaraan,,40,1,17
+47,172200,Akumulasi Penyusutan kendaraan,,40,1,17
+48,173100,Mesin dan Peralatan,,40,1,17
+49,173200,Akumulasi Penyusutan Mesin dan Peralatan,,40,1,17
+50,174100,Peralatan akuisisi & relokasi,,40,1,17
+51,174200,Akumulasi penyusutan peralatan akuisisi,,40,1,17
+52,181100,Goodwill,,40,1,18
+53,181300,Penangguhan pembebanan transponder,,40,1,19
+54,181400,Penangguhan pembebanan backhaul,,40,1,19
+55,181600,Penangguhan pembebanan instalasi,,40,1,19
+56,181610,Penangguhan Biaya Survey Instalasi MPLS,,40,1,19
+57,181700,Biaya Mounting ditangguhkan,,40,1,19
+58,181800,Biaya Dismantle & relokasi ditangguhkan,,40,1,19
+59,181900,Beban sewa ditangguhkan,,40,1,19
+60,181901,Penangguhan pembebanan sewa wireless,,40,1,19
+61,181500,Pajak tangguhan,,40,1,20
+62,153100,Uang muka pembelian asset,,40,1,21
+63,181200,Lisensi & merk,,40,1,22
+64,133110,Deposit sewa kantor,,40,1,23
+65,133111,Deposit mesin fotocopy,,40,1,23
+66,133120,Deposit telepon,,40,1,23
+67,133130,Deposit air mineral,,40,1,23
+68,133140,Deposit Taksi,,40,1,23
+69,133150,Deposit security Mabuhay,,40,1,23
+70,211100,Hutang usaha,,40,1,24
+71,213100,Biaya yang Masih Harus Dibayar,,40,1,24
+72,213101,Deposit,,40,1,24
+73,216100,Bagian lancar hutang,,40,1,24
+74,217100,Hutang Deviden,,40,1,24
+75,212100,PPN Keluaran,,40,1,25
+76,212200,Hutang PPh23,,40,1,25
+77,212300,Hutang PPh ps 4 ayat 2,,40,1,25
+78,212400,Hutang PPh 21,,40,1,25
+79,212500,Hutang PPh ps 25,,40,1,25
+80,212600,Hutang PPh ps 29 Badan,,40,1,25
+81,214100,Hutang bunga pinjaman,,40,1,26
+82,215100,Hutang Lancar pada pihak ke tiga,,40,1,27
+83,221100,Bagian lancar hutang afiliasi,,40,1,28
+84,221101,Hutang lancar afiliasi Dana Pensiun,,40,1,28
+85,221102,Hutang lancar afiliasi YKP,,40,1,28
+86,221103,Hutang lancar afiliasi BRI Mangga Dua,,40,1,28
+87,221104,Hutang lancar afiliasi BRI Syariah,,40,1,28
+88,231100,Hutang jangka panjang,,40,1,29
+89,241100,Hutang Afiliasi Jangka panjang,,40,1,29
+90,241101,Hutang Afiliasi Jangka Panjang Dana Pensiun,,40,1,29
+91,241102,Hutang Afiliasi Jangka Panjang  BRI Mangga ,,40,1,29
+92,241103,Hutang Afiliasi Jangka Panjang BRI Syariah,,40,1,29
+93,251100,Imbalan Pasca Kerja,,40,1,29
+94,311100,Modal PT Bringin Gigantara,,40,1,3
+95,311101,Modal Dana Pensiun BRI,,40,1,3
+96,311102,Modal YKP BRI,,40,1,3
+97,311200,Modal PT Datasel,,40,1,3
+98,311300,Modal Belum Disetor,,40,1,3
+99,312100,Saham agio,,40,1,3
+100,321100,Laba ditahan tahun lalu,,40,1,31
+101,321200,Laba Tahun Berjalan,,40,1,31
+102,329990,Historical Balancing,,40,1,31
+103,411100,Pendapatan jasa VSAT,,40,1,32
+104,411200,Pendapatan Jasa MPLS,,40,1,32
+105,411300,Pendapatan jasa E-learning,,40,1,32
+106,411400,Pendapatan jasa Transponder,,40,1,32
+107,411500,Pendapatan jasa VPN 3G,,40,1,32
+108,412100,Pendapatan jasa survey & instalasi,,40,1,32
+109,413100,Pendapatan jasa Dismantling & relokasi,,40,1,32
+110,414100,Pendapatan service & utility,,40,1,32
+111,415100,Jasa mitra KSO,,40,1,32
+112,415101,Jasa mitra KSO e learning,,40,1,32
+113,416100,Pendapatan GPRS,,40,1,32
+114,417000,Pendapatan Perangkat Router,,40,1,32
+115,418000,Pendapatan Denda Keterlambatan,,40,1,32
+116,419000,Pendapatan atas Pengantaran,,40,1,32
+117,511100,Biaya sewa transponder,,40,1,33
+118,512100,Biaya sewa peralatan,,40,1,33
+119,512200,Biaya sewa wireless,,40,1,33
+120,513100,Biaya maintenance peralatan,,40,1,33
+121,514100,Biaya survey & instalasi,,40,1,33
+122,514101,Biaya survey & instalasi 1000 ATM,,40,1,33
+123,515100,Biaya dismantle & relokasi,,40,1,33
+124,516100,Biaya asuransi perangkat,,40,1,33
+125,517000,Potongan Pembelian,,40,1,33
+126,517100,Backhaul link,,40,1,33
+127,517200,GPRS link,,40,1,33
+128,517300,Biaya perangkat router,,40,1,33
+129,518000,Biaya atas Pengiriman Barang,,40,1,33
+130,519100,Biaya Mounting,,40,1,33
+131,520100,Biaya penempatan perangkat,,40,1,33
+132,521100,Biaya penggunaan frekuensi,,40,1,33
+133,522100,Biaya penyelengaraan frekuensi (uso),,40,1,33
+134,523100,Biaya Marketing fee,,40,1,33
+135,524100,Biaya critical spare,,40,1,33
+136,523000,Biaya Denda Keterlambatan,,40,1,34
+137,524000,Biaya Jasa marketing,,40,1,34
+138,611100,Biaya alat tulis kantor,,40,1,35
+139,611110,Biaya asuransi,,40,1,35
+140,611120,Biaya asosiasi,,40,1,35
+141,611130,Biaya pemeliharaan peralatan kantor,,40,1,35
+142,611140,Biaya maintenance sistem pembukuan,,40,1,35
+143,611200,Biaya eksploitasi kendaraan,,40,1,35
+144,611300,Listrik, Air dan Telpon, internet,,40,1,35
+145,611400,Housekeeping,,40,1,35
+146,611500,Biaya Training & pendidikan,,40,1,35
+147,611600,Biaya Honorarium rapat,,40,1,35
+148,611610,Biaya penghapusan piutang tak tertagih,,40,1,35
+149,611700,Kesekertariatan,,40,1,35
+150,611800,Biaya perjalanan dinas,,40,1,35
+151,611900,Biaya notaris & dokumen,,40,1,35
+152,612100,Gaji pokok,,40,1,35
+153,612111,Tunjangan transport,,40,1,35
+154,612112,Tunjangan makan,,40,1,35
+155,612113,Uang lembur,,40,1,35
+156,612114,Tunjangan perumahan,,40,1,35
+157,612115,Tunjangan handpone,,40,1,35
+158,612116,Tunjangan hari raya,,40,1,35
+159,612117,Biaya kesehatan,,40,1,35
+160,612118,Honorarium pegawai,,40,1,35
+161,612119,THT, Astek,Prospen,,40,1,35
+162,612120,PPh 21 Ditanggung perusahaan,,40,1,35
+163,612121,Jaminan hari tua,,40,1,35
+164,612122,Jaminan kematian (JKM),,40,1,35
+165,612123,Jaminan kecelakaan kerja (JKK),,40,1,35
+166,612124,Tunjangan jabatan,,40,1,35
+167,612125,Tunjangan perusahaan,,40,1,35
+168,612126,Tunjangan kedukaan,,40,1,35
+169,612127,Tunjangan persalinan,,40,1,35
+170,612128,Biaya Pensiun & Pesangon,,40,1,35
+171,612129,Insentif Karyawan,,40,1,35
+172,612130,Biaya manfaat karyawan,,40,1,35
+173,612131,DPLK,,40,1,35
+174,612132,Jaminan Pemeliharaan Kesehatan (JPK),,40,1,35
+175,612133,Bonus karyawan,,40,1,35
+176,612134,Tunjangan khusus,,40,1,35
+177,612210,Biaya rekruitment,,40,1,35
+178,612228,Tunjangan cuti,,40,1,35
+179,612229,Tunjangan Kemahalan,,40,1,35
+180,612310,Biaya sewa kantor,,40,1,35
+181,612311,Biaya service Charge,,40,1,35
+182,612312,Biaya kendaraan,,40,1,35
+183,612313,Biaya sewa parkir,,40,1,35
+184,612314,Biaya gudang,,40,1,35
+185,612315,Biaya sewa penempatan antena,,40,1,35
+186,612410,Biaya representasi direksi,,40,1,35
+187,612510,Biaya riset & pengembangan,,40,1,35
+188,612610,Promosi dan Iklan,,40,1,35
+189,612710,Biaya HRD,,40,1,35
+190,612711,Biaya konsultan,,40,1,35
+191,612712,Auditor,,40,1,35
+192,612713,Biaya konsultan lainnya,,40,1,35
+193,612714,Biaya lain-lain,,40,1,35
+194,612715,Beban Pajak,,40,1,35
+195,661100,Biaya penyusutan inventaris kantor,,40,1,36
+196,662100,Penyusutan Kendaraan,,40,1,36
+197,663100,Penyusutan Mesin dan Peralatan,,40,1,36
+198,664100,Penyusutan peralatan akuisisi,,40,1,36
+199,665100,Amortisasi lisensi &merk,,40,1,36
+200,666100,Beban Piutang tak tertagih,,40,1,36
+201,811100,Pendapatan jasa giro,,40,1,37
+202,811200,Pendapatan bunga deposito,,40,1,37
+203,811300,Pendapatan non operasi lainnya,,40,1,37
+204,811400,Penghasilan pajak tangguhan,,40,1,37
+205,910000,Pengeluaran Luar Usaha,,40,1,38
+206,911100,Biaya adm bank,,40,1,38
+207,911200,Biaya pajak atas bunga,,40,1,38
+208,911300,Biaya provisi & telex,,40,1,38
+209,911310,Biaya non operasional lainnya,,40,1,38
+210,911400,Beban bunga pinjaman,,40,1,38
+211,911500,Sumbangan & donasi,,40,1,38
+212,912100,Laba/rugi selisih kurs,,40,1,38
+213,930000,Biaya Deviden,,40,1,38
+214,920000,Pajak Penghasilan,,40,1,39
+215,311103,Modal Perorangan,,40,0,0

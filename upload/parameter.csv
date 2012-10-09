@@ -1,0 +1,31 @@
+"parameterid","paramname","paramvalue","description","recordstatus"
+1,"hpnoti0","02190488878","HP Notification No",1
+2,"usingoldnik","0","All EmployeeData using old nik",1
+3,"outofday","*","Tanda untuk tgl lebih dari akhir bulan",1
+4,"usinglog","1","Tanda untuk aktif log (1) / tidak (0)",1
+5,"smtpserver","172.21.1.7","SMTP Server for sending email",1
+6,"smtpport","25","SMTP Port for sending email",1
+7,"fromemail","siskalandre@yahoo.com","From Email",1
+8,"eventsms","0","Event SMS Notification",1
+9,"eventmail","0","Event Email Notification",1
+10,"transferstockout","2","Transfer Stock menyatakan barang keluar",1
+11,"emailproject","siskalandre@yahoo.com,audi_sulistya@yahoo.com","Project Email Notification",1
+12,"accountdebetstartmoney","3","Account ketika uang dikeluarkan dari kas",1
+13,"statpettystartmoney","3","Status Petty Cash mengeluarkan uang",1
+14,"msgstartmoney","Mulai Kas Bon","Note yang ditulis di journal saat memulai kas bon",1
+15,"msgrepmoney","Laporan Kas Bon","Note yang ditulis di journal saat laporan kas bon",1
+16,"projectfinish","1","Status Project Finish",1
+17,"projectinv","6","Status Project Invoice",1
+18,"projectpaid","4","Status Project Paid",1
+19,"wageovertime","7","ID wage type untuk overtime",1
+20,"freeschedule","8","Hari libur",1
+21,"wagemeal","3","ID wage type untuk meal",1
+22,"wagetransport","4","ID wage type untuk transport",1
+23,"wagegapok","1","ID wage gaji pokok",1
+24,"idbos","1","ID Bos",1
+25,"latestatus","DT","Status Datang Terlambat",1
+26,"starschedule","9","Tidak ada di kalendar",1
+27,"wagejabatan","2","ID wage type untuk jabatan",1
+28,"wagekhusus","5","ID wage type untuk khusus",1
+29,"wagetunpajak","23","ID wage type untuk tunjangan pajak",1
+30,"wagepotpajak","24","ID wage type untuk potongan pajak",1

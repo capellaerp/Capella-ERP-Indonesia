@@ -1,0 +1,13 @@
+"snroid","description","formatdoc","formatno","repeatby","recordstatus"
+1,"Employee Type","1000000","000000","",1
+2,"Sickness Transaction Format","000/001/MONROM/YYYY","000","MMYYYY",1
+3,"Delivery Advice","00000/DA/MONROM/YYYY","00000","MMYYYY",1
+4,"Cash Bank In","00000/CBI/MONROM/YYYY","00000","MMYYYY",1
+5,"Cash Bank Out","00000/CBO/MONROM/YYYY","00000","MMYYYY",1
+6,"General Journal","00000/JU/MONROM/YYYY","00000","MMYYYY",1
+7,"Invoice AR","00000/INV/MONROM/YYYY","00000","MMYYYY",1
+8,"Purchase Requisition","00000/PR/MONROM/YYYY","00000","MMYYYY",1
+9,"Purchase Order","00000/PO/MONROM/YYYY","00000","MMYYYY",1
+10,"Goods Received","00000/GR/MONROM/YYYY","00000","MMYYYY",1
+11,"Goods Issue","00000/GI/MONROM/YYYY","00000","MMYYYY",1
+12,"Sales Order","00000/SO/MONROM/YYYY","00000","MMYYYY",1

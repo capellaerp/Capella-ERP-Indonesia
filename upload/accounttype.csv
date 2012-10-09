@@ -1,0 +1,40 @@
+"accounttypeid","accounttypename","parentaccounttypename","recordstatus"
+1,"Harta","",1
+2,"Kewajiban","",1
+3,"Modal","",1
+4,"Pendapatan","",1
+5,"Biaya atas Pendapatan","",1
+6,"Pengeluaran Operasional","",1
+7,"Pendapatan Lain","",1
+8,"Pengeluaran Lain","",1
+9,"Kas","Harta",1
+10,"Bank","Harta",1
+11,"Surat-surat Berharga","Harta",1
+12,"Piutang Dagang","Harta",1
+13,"Piutang Pajak","Harta",1
+14,"Piutang Lain-lain","Harta",1
+15,"Persediaan","Harta",1
+16,"Biaya dibayar dimuka","Harta",1
+17,"Harta Tetap Berwujud","Harta",1
+18,"Harta Tetap Tidak Berwujud","Harta",1
+19,"Beban ditangguhkan","Harta",1
+20,"Aktiva Pajak Tangguhan","Harta",1
+21,"Uang muka pengadaan aktiva ","Harta",1
+22,"Lisennsi","Harta",1
+23,"Jaminan","Harta",1
+24,"Hutang ","Kewajiban",1
+25,"Hutang Pajak","Kewajiban",1
+26,"Hutang bunga","Kewajiban",1
+27,"Hutang pada pihak ketiga","Kewajiban",1
+28,"Hutang Afiliasi","Kewajiban",1
+29,"Hutang Jangka Panjang","Kewajiban",1
+30,"Modal","Modal",1
+31,"Laba","Modal",1
+32,"Pendapatan Usaha","Modal",1
+33,"Biaya Produksi","Biaya atas Pendapatan",1
+34,"Biaya Lain","Biaya atas Pendapatan",1
+35,"Biaya Operasional","Pengeluaran Operasional",1
+36,"Biaya Non Operasional","Pengeluaran Operasional",1
+37,"Pendapatan Luar Usaha","Pendapatan Lain",1
+38,"Pengeluaran Luar Usaha","Pengeluaran Lain",1
+39,"Pajak Badan","Pengeluaran Lain",1

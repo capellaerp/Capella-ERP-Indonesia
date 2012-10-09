@@ -1,0 +1,418 @@
+body
+{
+    margin:0px;
+    padding:0px;
+    background-color:#66d2a6;
+    background-image: url("../images/background.jpg");
+    background-repeat: repeat-x repeat-y;
+    text-align: center;
+	font-family: Verdana;
+}
+#container 
+{
+  margin: 0 auto;
+  width: 950px;
+  text-align: left;
+}
+#header
+{
+  float: left;
+  width: 950px;
+  height:150px;
+}
+#content
+{
+	top:190px;
+	height: 1500px;
+	width: 950px;
+	background: #EFEFEF;
+	float: none;
+}
+#contentleft
+{
+  width: 250px;
+  height: 600px;
+  float: left;
+}
+#contentright
+{
+  width: 700px;
+  float: left; 
+}
+.loginform
+{
+  height: 200px;
+  background-repeat: no-repeat;
+  position: relative;
+  left: 10px;
+}
+.loginform label
+{
+	color: white;
+	font-family: verdana;
+	font-size: x-small;
+}
+#login-form
+{
+  position: relative;
+  top: 10px;
+  background: #007dbe;
+  width: 200px;
+  	
+}	
+.rowheader
+{
+  background-image: url("../images/header-portlet.jpg");
+  background-repeat: no-repeat;
+  position:relative;
+  top: -10px;
+  left: 0px;
+  height: 40px;
+  color: white;
+}
+.labelheader
+{
+  position: relative;
+  top: 8px;
+  left: 40px;
+}
+.rowuser
+{
+	position: relative;
+	top: 0px;
+	left: 10px;
+	height: 30px;
+}
+.rowuser label
+{
+	left: 20px;
+	top: 0px;
+	width: 50px;
+	color: white;
+}
+#LoginForm_username
+{
+  position: relative;
+  width: 74px;
+  left: 70px;
+  top: -25px;
+	background: #FFFFFF url(user.jpg) left no-repeat;
+	padding-left: 30px;
+}
+.rowpass
+{
+	top: 0px;
+	left: 30px;
+	height: 30px
+}
+.rowpass label
+{
+	padding-left: 10px;
+	top: 0px;
+	width: 50px;
+	color: white;
+}
+#LoginForm_password
+{
+  position: relative;
+  width: 74px;
+  left: 80px;
+  top: -25px;
+	background: #FFFFFF url(pass.jpg) left no-repeat;
+	padding-left: 30px;
+}
+.rowrememberMe
+{
+left: 10px;
+    position: relative;
+}
+.rowrememberMe label
+{
+left: 20px;
+    position: relative;
+    top: -20px;
+}
+.rowbuttons
+{
+  padding-left: 10px;
+}
+.agendaform
+{
+  height: 200px;
+  background-repeat: no-repeat;
+  position: relative;
+  left: 10px;
+}
+.agendaform label
+{
+	color: white;
+	font-family: verdana;
+}
+#agenda-form
+{
+  position: relative;
+  top: 0px;
+  background: #007dbe;
+  width: 200px;
+}	
+.rowagenda #calendar
+{
+	width: 100%;
+}
+.rowagenda  .weekdays-row
+{
+	background: #007dbe;
+}
+.hero-unit h1
+{
+  font-size: 30px;
+}
+.carousel
+{
+	width: 600px;
+}
+.wrapperadmin {
+	width: 950px;
+	margin: -34px auto;
+}
+#userlogout
+{
+	position: relative;
+	float: right;
+	top:0px;	
+	color: white;
+	margin-right: 10px;
+}
+#userlogout a
+{
+	color: yellow;
+}
+h1
+{
+	margin-left: 10px;
+}
+.grid-view {
+	padding: 0px 10px;
+	width: 930px;
+	text-align: left;
+}
+#detail1datagrid {
+	padding: 0px 0px;
+	width: 100%;
+	text-align: left;
+}
+#detail2datagrid {
+	padding: 0px 0px;
+	width: 100%;
+	text-align: left;
+}
+#detail3datagrid {
+	padding: 0px 0px;
+	width: 100%;
+	text-align: left;
+}
+#detail4datagrid {
+	padding: 0px 0px;
+	width: 100%;
+	text-align: left;
+}
+#detail5datagrid {
+	padding: 0px 0px;
+	width: 100%;
+	text-align: left;
+}
+.pager {
+float:left;
+}
+.recordpage
+{
+	left: 250px;
+top: -30px;
+width: auto;
+	display: inline-block;
+}
+.recordpage input
+{
+  position: relative;
+	left: 10px;
+width: 50px;
+}
+#footpanel {
+	position: fixed;
+	bottom: 0; left: 0;
+	z-index: 9999; /*--Keeps the panel on top of all other elements--*/
+	background: #e3e2e2;
+	border: 1px solid #c3c3c3;
+	border-bottom: none;
+	width: 100%;
+}
+#footpanel ul {
+	padding: 0; margin: 0;
+	float: left;
+	width: 100%;
+	list-style: none;
+	border-top: 1px solid #fff; /*--Gives the bevel feel on the panel--*/
+	font-size: 1.1em;
+}
+#footpanel ul li{
+	padding: 0; margin: 0;
+	float: left;
+	position: relative;
+}
+#footpanel ul li a{
+	padding: 5px;
+	float: left;
+	text-indent: -9999px; /*--For text replacement - Shove text off of the page--*/
+	height: 16px; width: 16px;
+	text-decoration: none;
+	color: #333;
+	position: relative;
+}
+#messages {
+color: red;
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 50px;
+    padding-top: 5px;
+    text-indent: 0;
+}
+#footpanel #menucode {
+  width: 100px;
+	font-size: 12px;
+	text-indent: 0;
+}
+#footpanel .formclass
+{
+  float:left;
+  position: relative;
+  left: 30px;
+}
+#createdialog
+{
+  text-align: left;
+	padding-left: 30px;
+	font-family: Verdana;
+}
+#createdialog1
+{
+  text-align: left;
+	padding-left: 30px;
+	font-family: Verdana;
+}
+#createdialog2
+{
+  text-align: left;
+	padding-left: 30px;
+	font-family: Verdana;
+}
+#createdialog3
+{
+  text-align: left;
+	padding-left: 30px;
+	font-family: Verdana;
+}
+#createdialog4
+{
+  text-align: left;
+	padding-left: 30px;
+	font-family: Verdana;
+}
+#createdialog5
+{
+  text-align: left;
+	padding-left: 30px;
+	font-family: Verdana;
+}
+#createdialog6
+{
+  text-align: left;
+	padding-left: 30px;
+	font-family: Verdana;
+}
+#toolbar {
+margin-bottom: 30px;
+margin-right: 30px;
+float: right;
+}
+#toolbar ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding-right: 10px;
+	margin-left:0px;
+}
+#toolbar ul  {	
+	margin-left:-20px;
+	margin-bottom: -30px;
+}
+#toolbarform {
+margin-bottom: 30px;
+}
+#toolbarform ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding-right: 10px;
+	margin-left:0px;
+}
+#toolbarform ul  {	
+	margin-left:-20px;
+	margin-bottom: 30px;
+}
+#breadcrumb {
+	font-size: 12px;
+	margin: 0 auto;
+	--margin-bottom: 20px;
+	background-color: rgba(0,0,0,0.8);
+	line-height: 30px;
+	width: 950px;
+	position: relative;
+	border-radius: 0 0 0px 0px;
+	z-index: 50;
+}
+
+#breadcrumb span {
+	margin-left: 10px;
+	color: #fff;
+	}
+	
+#breadcrumb a {
+	text-decoration: none;
+	color: #0099ff;
+}
+
+#breadcrumb a:hover {
+	text-decoration: underline;
+	}
+	
+#help
+{
+  text-align:left;
+}
+
+#help .h1help
+{
+  margin-left: 0px;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+#help .h2help
+{
+  font-size: 16px;
+}
+
+#help .h3help
+{
+  font-size: 14px;
+  margin-left: 20px;
+}
+
+#help .phelp
+{
+  margin: 10px 0 10px 30px; 
+}
+
+#contentform
+{
+margin-top: 20px;
+}

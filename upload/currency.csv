@@ -1,0 +1,172 @@
+currencyid,countryid,currencyname,symbol,i18n,recordstatus
+1,1,Andoran peseta,ADP,id_id,1
+2,2,United Arab Emirates Dirham,AED,id_id,0
+3,3,Afghani (Old),AFA,id_id,0
+4,3,Afghani,AFN,id_id,0
+5,6,Albanian Lek,ALL,id_id,0
+6,7,Armenian Dram,AMD,id_id,0
+7,9,Angolanische Kwanza,AOA,id_id,0
+8,9,Angolan New Kwanza (Old),AON,id_id,0
+9,9,Angolan Kwanza Reajustado (Old),AOR,id_id,0
+10,11,Argentine Peso,ARS,id_id,0
+11,13,Austrian Schilling,ATS,id_id,0
+12,14,Australian Dollar,AUD,id_id,0
+13,15,Aruban Guilder,AWG,id_id,0
+14,16,Azerbaijan Manat,AZM,id_id,0
+15,17,Bosnia and Herzegovina Convertible Mark,BAM,id_id,0
+16,18,Barbados Dollar,BBD,id_id,0
+17,19,Bangladesh Taka,BDT,id_id,0
+18,20,Belgian Franc,BEF,id_id,0
+19,22,Bulgarian Lev,BGN,id_id,0
+20,23,Bahrain Dinar,BHD,id_id,0
+21,24,Burundi Franc,BIF,id_id,0
+22,26,Bermudan Dollar,BMD,id_id,0
+23,27,Brunei Dollar,BND,id_id,0
+24,28,Boliviano,BOB,id_id,0
+25,12,American Samoa,USD,id_id,0
+26,21,Communaute Financiere Africaine franc CFA Franc,XOF,id_id,0
+27,25,Communaute Financiere Africaine franc,XOF,id_id,0
+28,29,Real,BRL,id_id,0
+29,4,East Caribbean dollar,XCD,id_id,0
+30,5,East Caribbean dollar,XCD,id_id,0
+31,30,Bahamian dollar,BSD,id_id,0
+32,31,ngultrum,BTN,id_id,0
+33,31,Indian Rupee,INR,id_id,0
+34,33,Pula,BWP,id_id,0
+35,34,Belarusian ruble,BYB,id_id,0
+36,35,Belizean dollar,BZD,id_id,0
+37,36,Canadian Dollar,CAD,id_id,0
+38,37,Australian dollar,AUD,id_id,0
+39,38,Congolese franc,CDF,id_id,0
+40,92,Rupiah,Rp.,id_id,1
+41,209,United States Dollar,USD,id_id,1
+42,208,Poundsterling,GBP,id_id,0
+43,179,Singapore Dollar,SGD,id_id,1
+44,39,Communaute Financiere Africaine franc,XAF,id_id,0
+45,40,Communaute Financiere Africaine franc,XAF,id_id,0
+46,41,Swiss franc,CHF,id_id,0
+47,42,Communaute Financiere Africaine franc,XAF,id_id,0
+48,43,New Zealand dollar,NZD,id_id,0
+49,44,Chilean peso,CLP,id_id,0
+50,45,Communaute Financiere Africaine franc,XAF,id_id,0
+51,46,Yuan,CNY,id_id,0
+52,47,Colombian peso,COP,id_id,0
+53,48,Costa Rican colon,CRC,id_id,0
+54,49,Cuban peso,CUP,id_id,0
+55,50,Cape Verdean escudo,CVE,id_id,0
+56,51,Australian dollar,AUD,id_id,0
+57,52,Cypriot pound,CYP,id_id,0
+58,52,Turkish lira,TRL,id_id,0
+59,53,Czech Koruna,CZK,id_id,0
+60,54,Euro,EUR,id_id,0
+61,55,Djiboutian franc,DJF,id_id,0
+62,56,Danish krone,DKK,id_id,0
+63,57,East Caribbean dollar,XCD,id_id,0
+64,58,Dominican peso,DOP,id_id,0
+65,59,Algerian dinar,DZD,id_id,0
+66,60,United States Dollar,USD,id_id,0
+67,61,Euro,EUR,id_id,0
+68,62,Egyptian pound,EGP,id_id,0
+69,63,Nakfa,ERN,id_id,0
+70,64,Euro,EUR,id_id,0
+71,65,Birr,ETB,id_id,0
+72,66,Euro,EUR,id_id,0
+73,67,Fijian dollar,FJD,id_id,0
+74,68,United States Dollar,USD,id_id,0
+75,70,Euro,EUR,id_id,0
+76,71,Communaute Financiere Africaine franc,XAF,id_id,0
+77,72,East Caribbean dollar,XCD,id_id,0
+78,73,Lari,GEL,id_id,0
+79,74,Euro,EUR,id_id,0
+80,75,Cedi,GHS,id_id,0
+81,76,Gibraltar pound,GIP,id_id,0
+82,77,Danish krone,DKK,id_id,0
+83,78,Dalasi,GMD,id_id,0
+84,79,Guniean Franc,GNF,id_id,0
+85,80,Euro,EUR,id_id,0
+86,81,Communaute Financiere Africaine franc,XAF,id_id,0
+87,82,Euro,EUR,id_id,0
+88,83,quetzal,GTQ,id_id,0
+89,83,United States Dollar,USD,id_id,0
+90,84,United States Dollar,USD,id_id,0
+91,85,Communaute Financiere Africaine franc,XOF,id_id,0
+92,86,Guyanese dollar,GYD,id_id,0
+93,87,Yuan,CNY,id_id,0
+94,88,Lempira,NHL,id_id,0
+95,89,Kuna,HRK,id_id,0
+96,90,Gourde,HTG,id_id,0
+97,91,Forint,HUF,id_id,0
+98,93,Euro,EUR,id_id,0
+99,94,new Israeli shekel,ILS,id_id,0
+100,95,Indian rupee,INR,id_id,0
+101,96,British Poundsterling,GBP,id_id,0
+102,96,United States Dollar,USD,id_id,0
+103,97,Iraqi dinar,IQD,id_id,0
+104,98,Iranian rial,IRR,id_id,0
+105,99,Icelandic krona,ISK,id_id,0
+106,100,Euro,EUR,id_id,0
+107,101,Jamaican dollar,JMD,id_id,0
+108,102,Jordanian dinar,JOD,id_id,0
+109,103,Yen,JPY,id_id,1
+110,104,Kenyan shilling,KES,id_id,0
+111,105,Kyrgyzstani som,KGS,id_id,0
+112,106,Riel,KHR,id_id,0
+113,107,Australian dollar,AUD,id_id,0
+114,108,Comoran franc,KMF,id_id,0
+115,109,North Korean won,KPW,id_id,0
+116,110,South Korean won,KRW,id_id,0
+117,111,Kuwaiti dinar,KWD,id_id,0
+118,112,Caymanian dollar,KYD,id_id,0
+119,113,Tenge,KZT,id_id,0
+120,114,Kip,LAK,id_id,0
+121,115,Lebanese pound,LBP,id_id,0
+122,116,Swiss franc,CHF,id_id,0
+123,117,Sri Lankan rupee,LKR,id_id,0
+124,118,Liberian dollar,LRD,id_id,0
+125,119,Loti,LSL,id_id,0
+126,120,South African Rand,ZAR,id_id,0
+127,121,Litas,LTL,id_id,0
+128,122,Euro,EUR,id_id,0
+129,123,Libyan dinar,LYD,id_id,0
+130,124,Moroccan dirham,MAD,id_id,0
+131,125,Euro,EUR,id_id,0
+132,126,Moldovan Leu,MDL,id_id,0
+133,127,Ariary,MGA,id_id,0
+134,128,United States Dollar,USD,id_id,0
+135,129,Macedonian denar,MKD,id_id,0
+136,130,Communaute Financiere Africaine franc,XOF,id_id,0
+137,132,togrog/tugrik,MNT,id_id,0
+138,133,Yuan,CNY,id_id,0
+139,134,Euro,EUR,id_id,0
+140,135,ouguiya,MRO,id_id,0
+141,136,East Caribbean dollar,XCD,id_id,0
+142,137,Euro,EUR,id_id,0
+143,138,Mauritian rupee,MUR,id_id,0
+144,139,rufiyaa,MVR,id_id,0
+145,140,Malawian kwacha,MWK,id_id,0
+146,141,Mexican peso,MXN,id_id,0
+147,142,Ringgit,MYR,id_id,0
+148,143,Metical,MZM,id_id,0
+149,144,Namibian dollar,NAD,id_id,0
+150,144,South African Rand,ZAR,id_id,0
+151,145,Comptoirs Francais du Pacifique franc,XPF,id_id,0
+152,146,Communaute Financiere Africaine franc,XOF,id_id,0
+153,147,Australian dollar,AUD,id_id,0
+154,148,naira,NGN,id_id,0
+155,149,gold cordoba,NIO,id_id,0
+156,150,Euro,EUR,id_id,0
+157,151,Norwegian krone,NOK,id_id,0
+158,152,Nepalese rupee,NPR,id_id,0
+159,153,Austrailian Dollar,AUD,id_id,0
+160,154,New Zealand dollar,NZD,id_id,0
+161,155,New Zealand dollar,NZD,id_id,0
+162,156,Omani rial,OMR,id_id,0
+163,157,Panama Balboa,PAB,id_id,0
+164,157,United States Dollar,USD,id_id,0
+165,158,nuevo sol,PEN,id_id,0
+166,159,Comptoirs Francais du Pacifique franc,XPF,id_id,0
+167,160,kina,PGK,id_id,0
+168,161,Philippine peso,PHP,id_id,0
+169,162,Pakistani rupee,PKR,id_id,0
+170,163,zloty,PLN,id_id,0
+171,164,New Zealand dollar,NZD,id_id,0

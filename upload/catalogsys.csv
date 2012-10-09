@@ -1,0 +1,372 @@
+"catalogsysid","languagename","catalogname","catalogval","recordstatus"
+1,"English","frontpage","Front Page",1
+2,"English","homeadmin","Home Admin",1
+3,"English","system","System",1
+4,"English","citizen","Citizen",1
+5,"English","country","Country",1
+6,"English","currency","Currency",1
+7,"English","company","Company",1
+8,"English","objectauth","Object Authentication",1
+9,"English","useraccess","User Access",1
+10,"English","province","Province",1
+11,"English","city","City",1
+12,"English","emptycountrycode","Country Code must be filled",1
+13,"English","emptycountryname","Country must be filled",1
+14,"English","emptyprovincename","Province must be filled",1
+15,"English","emptycityname","City must be filled",1
+16,"English","subdistrict","Sub District",1
+17,"English","emptysubdistrict","Sub District must be filled",1
+18,"English","emptyzipcode","Zip Code must be filled",1
+19,"English","kelurahan","Sub Subdistrict",1
+20,"English","emptysubsubdistrict","Sub Subdistrict must be filled",1
+21,"English","emptycurrency","Currency must be filled",1
+22,"English","emptysymbol","Symbol must be filled",1
+23,"English","emptyi18n","i18n must be filled",1
+24,"English","emptycompanyname","Company msut be filled",1
+25,"English","emptyaddressname","Address must be filled",1
+26,"English","menuaccess","Menu Access",1
+27,"English","menuauth","Menu Object Authentication",1
+28,"English","emptymenucode","Menu Code must be filled",1
+29,"English","emptymenuname","Menu Name must be filled",1
+30,"English","emptymenuurl","Menu Url must be filled",1
+31,"English","emptymenuobject","Menu Object must be filled",1
+32,"English","emptygroupname","Group Name must be filled",1
+33,"English","groupaccess","Group Access",1
+34,"English","groupmenu","Group Menu",1
+35,"English","emptymenuauth","Menu Authentication",1
+36,"English","groupmenuauth","Group Menu Authentication",1
+37,"English","workflow","Workflow",1
+38,"English","emptywfname","Workflow must be filled",1
+39,"English","emptywfdesc","Workflow Description must be filled",1
+40,"English","emptywfminstat","Minimum Status must be filled",1
+41,"English","emptywfmaxstat","Maximum Status must be filled",1
+42,"English","emptywfbefstat","Before Status must be filled",1
+43,"English","emptywfrecstat","After Status must be filled",1
+44,"English","wfgroup","Workflow Group",1
+45,"English","emptywfstatusname","Workflow Status must be filled",1
+46,"English","wfstatus","Workflow Status",1
+47,"English","translog","Transaction Log",1
+48,"English","translock","Transaction Lock",1
+49,"English","snro","Specific Number Range Object",1
+50,"English","snrodet","Detail of SNRO",1
+51,"English","emptydescription","Description must be filled",1
+52,"English","emptysnro","SNRO must be filled",1
+53,"English","emptyformatdoc","Format Doc must be filled",1
+54,"English","emptyformatno","Format No must be filled",1
+55,"English","emptyparamname","Parameter Name must be filled",1
+56,"English","emptyparamvalue","Parameter Value must be filled",1
+57,"English","parameter","Parameter",1
+58,"English","language","Language",1
+59,"English","emptylanguagename","Language name must be filled",1
+60,"English","catalogsys","Catalog Translation System",1
+61,"English","addresstype","Address Type",1
+62,"English","common","Common",1
+63,"English","emptyaddresstypename","Address Type Name must be filled",1
+64,"English","contacttype","Contact Type",1
+65,"English","emptycontacttypename","Contact Type Name must be filled",1
+66,"English","identitytype","Identity Type",1
+67,"English","emptyidentitytypename","Identity Type Name must be filled",1
+68,"English","romawi","Rome Type",1
+69,"English","industry","Industry",1
+70,"English","emptycalendarmonth","Calendar Month must be filled",1
+71,"English","emptyromemonth","Rome Month must be filled",1
+72,"English","emptyindustryname","Industry Name must be filled",1
+73,"English","plant","Plant",1
+74,"English","addressbook","Address Book",1
+75,"English","emptyplantcode","Plant Code must be filled",1
+76,"English","emptyfullname","Full Name must be filled",1
+77,"English","inventory","Inventory",1
+78,"English","sloc","Storage Location",1
+79,"English","emptysloccode","Sloc Code must be filled",1
+80,"English","emptyplant","Plant must be filled",1
+81,"English","unitofmeasure","Unit of Measure",1
+82,"English","requestedby","Requested By",1
+83,"English","emptyrequestedbycode","Requested By Code must be filled",1
+84,"English","emptyuomcode","UOM Code must be filled",1
+85,"English","deliveryadvice","Form Request",1
+86,"English","emptyproduct","Product must be filled",1
+87,"English","emptyqty","Qty must be filled",1
+88,"English","emptyreqdate","Req Date must be filled",1
+89,"English","emptyrequestedby","Requested By must be filled",1
+90,"English","purchasing","Purchasing",1
+91,"English","purchasingorg","Purchasing Organization",1
+92,"English","emptypurchasingorgcode","Purchasing Organization must be filled",1
+93,"English","emptypurchasinggroupcode","Purchasing Group must be filled",1
+94,"English","purchasinggroup","Purchasing Group",1
+95,"English","materialtype","Material Type",1
+96,"English","materialmaster","Material Master",1
+97,"English","materialgroup","Material Group",1
+98,"English","emptymaterialtypecode","Material Type must be filled",1
+99,"English","emptymaterialgroupcode","Material Group must be filled",1
+100,"English","emptymaterialstatus","Material Status must be filled",1
+101,"English","ownership","Ownership",1
+102,"English","materialstatus","Material Status",1
+103,"English","emptyownershipname","Ownership must be filled",1
+104,"English","product","Material Master - Main Data",1
+105,"English","emptyproductname","Material Master must be filled",1
+106,"English","emptybaseuom","Base UOM msut be filled",1
+107,"English","productbasic","Material Master - Basic Data",1
+108,"English","productpurchase","Material Master - Purchase Data",1
+109,"English","emptyorderunit","Order Unit must be filled",1
+110,"English","emptyvalidfrom","Valid From must be filled",1
+111,"English","emptyvalidto","Valid To must be filled",1
+112,"English","productplant","Material Master Plant / Storage Data",1
+113,"English","position","Position",1
+114,"English","om","Organization Management",1
+115,"English","hr","Human Resource",1
+116,"English","emptypositionname","Position Name must be filled",1
+117,"English","emptylevelorgname","Level Organization Name must be filled",1
+118,"English","levelorg","Level Organization",1
+119,"English","emptyorgstructure","Organization Structure must be filled",1
+120,"English","emptyjobdesc","Job Description must be filled",1
+121,"English","emptyqualification","Qualification must be filled",1
+122,"English","jobs","Jobs",1
+123,"English","emptystructurename","Structure Name must be filled",1
+124,"English","orgstructure","Organization Structure",1
+125,"English","mp","Master Data",1
+126,"English","familyrelation","Family Relation",1
+127,"English","emptyfamilyrelationname","Family Relation must be filled",1
+128,"English","prs","Personnel",1
+129,"English","occupation","Occupation",1
+130,"English","emptyoccupationname","Occupation must be filled",1
+131,"English","sex","Sex",1
+132,"English","emptysexname","Sex Name must be filled",1
+133,"English","religion","Religion",1
+134,"English","emptyreligionname","Religion Name must be filled",1
+135,"English","education","Education",1
+136,"English","educationmajor","Education Major",1
+137,"English","emptyeducationname","Education must be filled",1
+138,"English","emptyeducationmajorname","Education Major must be filled",1
+139,"English","maritalstatus","Marital Status",1
+140,"English","emptymaritalstatusname","Marital Status must be filled",1
+141,"English","employeetype","Employee Type",1
+142,"English","emptyemployeetypename","Employee Type must be filled",1
+143,"English","absstatus","Absence Status",1
+144,"English","emptyshortstat","Shortstat must be filled",1
+145,"English","hrtm","Time Management",1
+146,"English","languagevalue","Language Value",1
+147,"English","emptylanguagevaluename","Language Value must be filled",1
+148,"English","hrsp","Sanction",1
+149,"English","splettertype","Sanction Type",1
+150,"English","absschedule","Schedule Master",1
+151,"English","emptyabsschedulename","Schedule must be filled",1
+152,"English","emptyabsin","Absence In must be filled",1
+153,"English","emptyabsout","Absence Out must be filled",1
+154,"English","emptyabsstatus","Absence Status must be filled",1
+155,"English","absrule","Absence Rule",1
+156,"English","emptydifftimein","Difference Time In must be filled",1
+157,"English","emptydifftimeout","Difference Time Out must be filled",1
+158,"English","hrmtm","Master",1
+159,"English","emptypermitexitname","Permit Exit must be filled",1
+160,"English","permitexit","Permit Exit",1
+161,"English","permitin","Permit In",1
+162,"English","emptypermitinname","Permit In must be filled",1
+164,"English","hrp","Permit In",1
+165,"English","hro","Onleave",1
+166,"English","hospital","Hospital",1
+167,"English","hrs","Sickness",1
+168,"English","acc","Accounting",1
+169,"English","accounttype","Account Type",1
+170,"English","emptyaccounttypename","Account Type must be filled",1
+171,"English","emptyaccountname","Account must be filled",1
+172,"English","account","Chart of Account",1
+173,"English","emptyaccountcode","Account Code must be filled",1
+174,"English","emptyaddresscontactname","Address Contact must be filled",1
+175,"English","onleavetype","Onleave Type",1
+176,"English","emptyonleavename","Onleave must be filled",1
+177,"English","emptycutimax","Cuti Max must be filled",1
+178,"English","emptycustistart","Cuti Start must be filled",1
+179,"English","hrft","Facility",1
+180,"English","facilitytype","Facility Type",1
+181,"English","emptyfacilitytypename","Facility Type must be filled",1
+182,"English","hrpy","Payroll",1
+183,"English","benefittype","Benefit Type",1
+184,"English","emptywagetypename","Benefit Type must be filled",1
+185,"English","employeeschedule","Employee Schedule",1
+186,"English","employee","Employee",1
+187,"English","employeestatus","Employee Status",1
+188,"English","emptyemployeestatusname","Employee Status must be filled",1
+189,"English","memory or harddisk full","Check Memory or Harddisk",1
+190,"English","directory permission","Please check directory permission",1
+191,"English","entercountryname","Enter Country Name<br>
+Character, A-Z, a-z<br>
+50 char max",1
+192,"English","entercountrycode","Country Code<br>
+Character, A-Z, a-z<br>
+5 char max",1
+193,"English","enterrecordstatus","Record Status<br>
+check (active), uncheck (inactive)",1
+194,"English","enterprovincename","Province Name<br>
+Character, A-Z, a-z, 0-9<br>
+50 char max
+",1
+195,"English","enterpopcountryname","Country Name<br>
+click button to select a country",1
+196,"English","enterpopprovincename","Province Name<br>
+click button to select province",1
+197,"English","enterprovinceid","Province Name<br>
+Character, A-Z, a-z<br>
+Select from province module",1
+198,"English","entercityname","City Name<br>
+Character, A-Z, a-z<br>
+50 char max",1
+199,"English","entercityid","City<br>
+Character, A-Z, a-z<br>
+select from city module",1
+200,"English","entersubdistrictname","Subdistrict<br>
+Character, A-Z, a-z<br>
+50 char max",1
+201,"English","enterzipcode","Zip Code<br>
+Character, A-Z, a-z<br>
+50 char max",1
+202,"English","enterpopcityname","City Name<br>
+click button to select city",1
+203,"English","enterpopsubdistrictname","Subdistrict<br>
+click button to select subdistrict",1
+204,"English","enterkelurahanname","Sub Subdistrict<br>
+Character A-Z, a-z<br>
+50 char max",1
+205,"English","entersubdistrictid","Subdistrict<br>
+Character, A-Z,a-z<br>
+select from subdistrict module",1
+206,"English","entercurrencyname","Currency Name<br>
+Character, A-Z, a-z<br>
+50 char max",1
+207,"English","entersymbol","Symbol<br>
+Character, A-Z, a-z<br>
+5 char max",1
+208,"English","enteri18n","i18n<br>
+Character, A-Z, a-z<br>
+5 char max",1
+209,"English","enterpopcurrencyname","Currency<br>
+click to select currency",1
+210,"English","entercompanyname","Company Name<br>
+character, A-Z, a-z<br>
+50 char max",1
+211,"English","entertaxno","Tax<br>
+character, a-z, A-Z<br>
+50 char max",1
+212,"English","entercurrencyid","Currency<br>
+select from currency",1
+213,"English","enteraddress","Address<br>
+select from address",1
+214,"English","createdata","Create Data
+click button to create a new data",1
+215,"English","editdata","Edit Data
+Select id from grid, then click button to edit data",1
+216,"English","uploaddata","Upload Data
+click button to upload data",1
+217,"English","deletedata","Delete Data
+click button to delete data",1
+218,"English","downloaddata","Download Data
+click button to download/print",1
+219,"English","refreshdata","Refresh Data
+click button to received new data",1
+220,"English","helpdata","Help
+click button to retrieve help from system",1
+221,"English","recordpage","Record Page
+set amount of record to show per page",1
+222,"English","enterrealname","Real Name<br>
+Character, A-Z, a-z<br>
+50 char max",1
+223,"English","enterusername","Username<br>
+Character, A-Z, a-z<br>
+50 char max",1
+224,"English","enterpassword","Password<br>
+Character, A-Z, a-z, password mode<br>
+50 char max",1
+225,"English","enteremail","Email<br>
+Character, A-Z, a-z<br>
+50 char max",1
+226,"English","enterphoneno","Phone No<br>
+Character, A-Z, a-z<br>
+50 char max",1
+227,"English","enterlanguageid","Language<br>
+select from language module",1
+228,"English","enterpoplanguagename","Language<br>
+click button to select language",1
+229,"English","entermenucode","Menu Code<br>
+character, A-Z, a-z<br>
+10 char max",1
+230,"English","entermenuname","Menu Name<br>
+character, A-Z, a-z<br>
+50 char max",1
+231,"English","entermenuurl","Menu Url<br>
+character, A-Z, a-z<br>
+50 char max",1
+232,"English","enterdescription","Description<br>
+Character, A-Z, a-z<br>
+50 char max",1
+233,"English","entergroupname","Group Access<br>
+Character, A-Z, a-z<br>
+50 char max",1
+234,"English","enterpopgroupname","Group Access<br>
+click button to select from groupaccess",1
+235,"English","enterpopmenuname","Menu Access<br>
+click button to select from menuaccess",1
+236,"English","entergroupaccessid","Group Access<br>
+select from Group Access module",1
+237,"English","entermenuaccessid","Menu Access<br>
+click button to select from menu access",1
+238,"English","enterisread","Is Read<br>
+checkbox<br>
+set check to read permission or not to check to deny read permission",1
+239,"English","enteriswrite","Is Write<br>
+checkbox<br>
+set check to write permission or not to check to deny write permission",1
+240,"English","enterispost","Is Post<br>
+checkbox<br>
+set check to approve permission or not to check to deny approve permission",1
+241,"English","enterisreject","Is Reject<br>
+checkbox<br>
+set check to reject permission or not to check to deny reject permission",1
+242,"English","enterisupload","Is Upload<br>
+checkbox<br>
+set check to upload permission or not to check to deny upload permission",1
+243,"English","enterisdownload","Is Download<br>
+checkbox<br>
+set check to download permission or not to check to deny download permission",1
+244,"English","usergroup","User Group",1
+245,"English","enterpopusername","User Name<br>
+click button to select from User Name module",1
+246,"English","enteruseraccessid","User Access<br>
+select from User Access module",1
+247,"English","enteruseraction","User Action<br>
+character, A-Z, a-z",1
+248,"English","fieldnewvalue","Field New Value<br>",1
+249,"English","entermodel","Model<br>
+character, A-Z, a-z",1
+250,"English","enterfieldname","Field Name<br>
+character, A-Z, a-z",1
+251,"English","enterfieldnewvalue","Field New Value",1
+252,"English","enterfcreateddate","Created Date",1
+253,"English","entertableid","Table ID",1
+254,"English","enterlockedby","Locked By",1
+255,"English","enterlockeddate","Locked Date",1
+256,"English","enterformatdoc","Format Doc<br>
+character, A-Z, a-z<br>
+50 char max",1
+257,"English","enterformatno","Format No<br>
+character, A-Z, a-z<br>
+50 char max",1
+258,"English","enterrepeatby","Repeat By<br>
+character, A-Z, a-z<br>
+50 char max",1
+259,"English","entersnroid","Specific Number Range Object (SNRO)<br>
+click button to select from snro",1
+260,"English","entercurdd","Current DD<br>
+number, 0-9",1
+261,"English","entercurmm","Current MM<br>
+number 0-9",1
+262,"English","entercuryy","Current YY<br>
+number 0-9",1
+263,"English","entercurvalue","Current Value<br>
+number, 0-9",1
+264,"English","enterparamname","Parameter Name<br>
+character, A-Z, a-z<br>",1
+265,"English","enterparamvalue","Parameter Value<br>
+character, A-Z, a-z<br>
+50 char max",1
+266,"English","enterlanguagename","Language<br>
+character, A-Z, a-z<br>
+50 char max",1

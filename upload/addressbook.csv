@@ -1,0 +1,3 @@
+"addressbookid","fullname","iscustomer","isemployee","isapplicant","isvendor","isinsurance","isbank","ishospital","iscatering","recordstatus","taxno","abno","accpiutangid","acchutangid","isstudent"
+1,"Rumah Sakit Umum Daerah Dr Soetomo",0,0,0,0,0,0,1,0,1,"","",0,,0
+2,"Dra. Purmiasih, MM",0,1,0,0,0,0,0,0,1,"","",,,0

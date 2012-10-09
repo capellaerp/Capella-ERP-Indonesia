@@ -1,0 +1,1 @@
+<?php echo Catalogsys::model()->getcatalog('identitytypehelp'); ?>

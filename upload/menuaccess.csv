@@ -1,0 +1,94 @@
+menuaccessid,menucode,menuname,description,menuurl,recordstatus
+1,sys,system,System,site/system,1
+2,sco,company,Company,company/index,1
+3,scob,objectauth,Object Authentication,objectauth/index,1
+4,front,frontpage,Front Page,site/index,1
+5,home,homeadmin,Home,site/indexadmin,1
+6,soua,useraccess,User Access,useraccess/index,1
+7,soma,menuaccess,Menu Access,menuaccess/index,1
+8,somau,menuauth,Menu Object Authentication,menuauth/index,1
+9,soga,groupaccess,Group Access,groupaccess/index,1
+10,sogma,groupmenuauth,Group Menu Authentication,groupmenuauth/index,1
+11,sogm,groupmenu,Group Menu,groupmenu/index,1
+12,stlog,translog,Transaction Log,translog/index,1
+13,stlock,translock,Transaction Lock,translock/index,1
+14,ssnro,snro,Specific Number Range Object,snro/index,1
+15,ssnrodet,snrodet,SNRO Detail,snrodet/index,1
+16,swf,workflow,Workflow,workflow/index,1
+17,swfg,wfgroup,Workflow Group,wfgroup/index,1
+18,swfs,wfstatus,Workflow Status,wfstatus/index,1
+19,sparam,parameter,Parameter,parameter/index,1
+20,slang,language,Language,language/index,1
+21,sct,catalogsys,Catalog Translation System,catalogsys/index,1
+22,scu,currency,Currency,currency/index,1
+23,sci,citizen,Citizen,site/citizen,1
+24,scou,country,Country,country/index,1
+25,scpr,province,Province,province/index,1
+26,scct,city,City,city/index,1
+27,scsub,subdistrict,Sub District,subdistrict/index,1
+28,sckel,kelurahan,Sub Subdistrict,kelurahan/index,1
+29,com,common,Common,common,1
+30,ccat,addresstype,Address Type,addresstype/index,1
+31,ccct,contacttype,Contact Type,contacttype/index,1
+32,ccit,identitytype,Identity Type,identitytype/index,1
+33,ccrom,romawi,Rome Type,romawi/index,1
+34,ccin,industry,Industry,industry/index,1
+35,ccpl,plant,Plant,plant/index,1
+36,ccab,addressbook,Address Book,addressbook/index,1
+37,inv,inventory,Inventory,inventory,1
+38,isloc,sloc,Storage Location,sloc/index,1
+39,iuom,unitofmeasure,Unit of Measure,unitofmeasure/index,1
+40,ireq,requestedby,Requested By,requestedby/index,1
+41,ida,deliveryadvice,Form Request,deliveryadvice/index,1
+42,pur,purchasing,Purchasing,purchasing,1
+43,pporg,purchasingorg,Purchasing Organization,purchasingorg/index,1
+44,ppgrp,purchasinggroup,Purchasing Group,purchasinggroup/index,1
+45,pmm,materialmaster,Material Master,materialmaster,1
+46,pmt,materialtype,Material Type,materialtype/index,1
+47,pmg,materialgroup,Material Group,materialgroup/index,1
+48,pms,materialstatus,Material Status,materialstatus/index,1
+49,pmo,ownership,Ownership,ownership/index,1
+50,ppr,product,Material Master Main Data,product/index,1
+51,pprb,productbasic,Material Master Basic Data,productbasic/index,1
+52,ppur,productpurchase,Material Master Purchase Data,productpurchase/index,1
+53,pprp,productplant,Material Master Plant / Storage Data,productplant/index,1
+54,hr,hr,Human Resource,hr,1
+55,hrpos,position,Position,position/index,1
+56,om,om,Organization Management,om,1
+57,hrlvl,levelorg,Level Organization,levelorg/index,1
+58,hrjob,jobs,Jobs,jobs/index,1
+59,hrorg,orgstructure,Organization Structure,orgstructure/index,1
+60,mp,mp,Master Personnel,mp/index,1
+61,hrfamrel,familyrelation,Family Relation,familyrelation/index,1
+62,prs,prs,Personnel,personnel,1
+63,hrocc,occupation,Occupation,occupation/index,1
+64,hrsex,sex,Sex,sex/index,1
+65,hrrel,religion,Religion,religion/index,1
+66,hrem,education,Education,education/index,1
+67,hremm,educationmajor,Education Major,educationmajor/index,1
+68,hrms,maritalstatus,Marital Status,maritalstatus/index,1
+69,hret,employeetype,Employee Type,employeetype/index,1
+70,hrtm,hrtm,Time Management,tm,1
+71,hrabst,absstatus,Absence Status,absstatus/index,1
+72,hrlv,languagevalue,Language Value,languagevalue/index,1
+73,hrsp,hrsp,Employee Warning,sp,1
+74,hrspt,splettertype,SP Letter Type,splettertype/index,1
+75,hrsm,absschedule,Master Schedule,absschedule/index,1
+76,hrabsr,absrule,Absence Rule,absrule/index,1
+77,hrmtm,hrmtm,Master,mtm,1
+78,hrpe,permitexit,Permit Exit,permitexit/index,1
+79,hrpi,permitin,Permit In,permitin/index,1
+80,hro,hro,Onleave,hro,1
+81,hrs,hrs,Sickness,hrs,1
+82,hrhos,hospital,Hospital,hospital/index,1
+83,acc,acc,Accounting,acc,1
+84,accty,accounttype,Account Type,accounttype/index,1
+85,accac,account,Chart of Account,account/index,1
+86,hroot,onleavetype,Onleave Type,onleavetype/index,1
+87,hrft,hrft,Facility,facility,1
+88,hrfft,facilitytype,Facility Type,facilitytype/index,1
+89,hrpy,hrpy,Payroll,hrpy,1
+90,hrbt,benefittype,Benefit Type,wagetype/index,1
+91,hres,employeeschedule,Employee Schedule,employeeschedule/index,1
+92,hree,employee,Employee,employee/index,1
+93,hrmes,employeestatus,Employee Status,employeestatus/index,1

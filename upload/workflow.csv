@@ -1,0 +1,34 @@
+workflowid,wfname,wfdesc,wfminstat,wfmaxstat,recordstatus
+1,insjournal,Insert General Journal,1,1,1
+2,appjournal,Approve General Journal,1,2,1
+3,listjournal,List General Journal,1,2,1
+4,insinvap,Insert Invoice AP,1,1,1
+5,appinvap,Approve Invoice AP,1,2,1
+6,listinvap,List Invoice AP,1,1,1
+7,insinvar,Insert Invoice AR,1,1,1
+8,appinvar,Approve Invoice AR,1,2,1
+9,listinvar,List Invoice AR,1,1,1
+10,inscashbankin,Insert Cash and Bank Deposit,1,1,1
+11,appcashbankin,Approval Cash and Bank Deposit,1,2,1
+12,listcashbankin,List Cash and Bank Deposit,1,1,1
+13,inscashbankout,Insert Cash and Bank Withdrawal,1,1,1
+14,appcashbankout,Approval Cash and Bank Withdrawal,1,2,1
+15,listcashbankout,List Cash and Bank Withdrawal,1,1,1
+16,insda,Insert Delivery Advice,1,1,1
+17,appda,Approve Delivery Advice,1,2,1
+18,listda,List Delivery Advice,1,1,1
+19,inspr,Insert Purchase Request,1,1,1
+20,apppr,Approve Purchase Request,1,2,1
+21,listpr,List Purchase Request,1,1,1
+22,inspo,Insert Purchase Order,1,1,1
+23,apppo,Approve Purchase Order,1,2,1
+24,listpo,List Purchase Order,1,1,1
+25,insgr,Insert Goods Received,1,1,1
+26,appgr,Approve Goods Received,1,2,1
+27,listgr,List Goods Received,1,1,1
+28,insgi,Insert Goods Issue,1,1,1
+29,appgi,Approve Goods Issue,1,2,1
+30,listgi,List Goods Issue,1,1,1
+31,insso,Insert Sales Order,1,1,1
+32,appso,Approve Sales Order,1,2,1
+33,listso,List Sales Order,1,1,1
